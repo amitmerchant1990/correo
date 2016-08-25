@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/correo"><img src="res/correo.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/correo"><img src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="Markdownify" width="200"></a>
   <br>
   Correo
   <br>
@@ -10,7 +10,7 @@
 
 **Windows**
 
-![screenshot](res/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png)
 
 ### Install
 
