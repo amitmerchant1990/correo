@@ -1,0 +1,45 @@
+{
+  "name": "correo",
+  "version": "1.0.0",
+  "description": "A menubar/taskbar Gmail App",
+  "main": "index.js",
+  "productName": "Correo",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "",
+    "docs": ""
+  },
+  "keywords": [
+    "electron",
+    "gmail",
+    "mail",
+    "menubar",
+    "taskbar",
+    "tray",
+    "mail",
+    "html",
+    "desktop"
+  ],
+  "author": "Amit Merchant <bullredeyes@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "_npmUser": {
+    "name": "amit_merchant",
+    "email": "bullredeyes@gmail.com"
+  },
+  "devDependencies": {
+    "devtron": "^1.1.2",
+    "electron-packager": "^7.0.3",
+    "electron-prebuilt": "latest",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "menubar": "latest"
+  }
+}
