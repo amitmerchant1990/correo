@@ -1,6 +1,6 @@
 {
   "name": "correo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A menubar/taskbar Gmail App",
   "main": "index.js",
   "productName": "Correo",

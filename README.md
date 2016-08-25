@@ -12,6 +12,12 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png)
 
+## Features
+
+- Run Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
+- App will keep alive in tray for quick usage.
+- Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
+
 ## How To Use
 
 Install it using : `npm install correo`
@@ -24,6 +30,14 @@ Clone this repository, and run
 $> cd PATH-TO-CORREO
 $> npm install && npm start
 ```
+
+## Credits
+
+This software uses code from several open source packages.
+
+- [Electron](http://electron.atom.io/)
+- [Node.js](https://nodejs.org/)
+- [menubar](https://github.com/maxogden/menubar)
 
 ### License
 
