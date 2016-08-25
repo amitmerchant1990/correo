@@ -14,9 +14,11 @@
 
 ## Features
 
-- Run Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
-- App will keep alive in tray for quick usage.
-- Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
+* Run Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
+* App will keep alive in tray for quick usage.
+* Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
+* Cross platform
+  - Windows, macOS and Linux ready.
 
 ## How To Use
 
@@ -30,6 +32,10 @@ Clone this repository, and run
 $> cd PATH-TO-CORREO
 $> npm install && npm start
 ```
+
+## Download
+
+Download the portable version of Correo for Windows, macOS and Linux from [here](https://github.com/amitmerchant1990/correo/releases/latest).
 
 ## Credits
 
