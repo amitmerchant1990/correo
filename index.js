@@ -14,7 +14,7 @@ const contextMenu = electron.Menu.buildFromTemplate([
   {
     label: 'Website',
     click() {
-      electron.shell.openExternal("https://www.github.com");
+      electron.shell.openExternal("https://github.com/amitmerchant1990/correo");
     }
   },
   {

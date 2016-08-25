@@ -1,6 +1,6 @@
 {
   "name": "correo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A menubar/taskbar Gmail App",
   "main": "index.js",
   "productName": "Correo",
@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "",
-    "docs": ""
+    "url": "git+https://github.com/amitmerchant1990/correo",
+    "docs": "https://github.com/amitmerchant1990/correo/blob/master/README.md"
   },
   "keywords": [
     "electron",
@@ -26,9 +26,9 @@
   "author": "Amit Merchant <bullredeyes@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/amitmerchant1990/correo/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/amitmerchant1990/correo#readme",
   "_npmUser": {
     "name": "amit_merchant",
     "email": "bullredeyes@gmail.com"
