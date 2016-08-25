@@ -8,9 +8,9 @@
 
 <h4 align="center">A menubar/taskbar Gmail App based on <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
 
-**Windows**
-
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png)
+**Windows**           |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![screenshot1](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png) |  ![screenshot2](res/screenshot2.png)
 
 ## Features
 
