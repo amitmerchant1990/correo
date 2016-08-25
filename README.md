@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/correo"><img src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="Markdownify" width="200"></a>
+  <a href="http://www.amitmerchant.com/correo"><img src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="Correo" width="200"></a>
   <br>
   Correo
   <br>
@@ -12,9 +12,18 @@
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png)
 
-### Install
+## How To Use
 
-`npm install correo`
+Install it using : `npm install correo`
+
+*Or*
+
+Clone this repository, and run
+
+```
+$> cd PATH-TO-CORREO
+$> npm install && npm start
+```
 
 ### License
 
