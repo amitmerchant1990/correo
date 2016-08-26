@@ -2,7 +2,7 @@
 const electron = require('electron');
 var menubar = require('menubar');
 
-var mb = menubar({index:"https://mail.google.com/mail/mu/", tooltip: "Correo", icon:__dirname + "/res/icon.png", width:360, height:640});
+var mb = menubar({index:__dirname +"/index.html", tooltip: "Correo", icon:__dirname + "/res/icon.png", width:360, height:640});
 
 const contextMenu = electron.Menu.buildFromTemplate([
   {

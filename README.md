@@ -18,7 +18,7 @@
 * App will keep alive in tray for quick usage.
 * Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
 * Cross platform
-  - Windows, macOS and Linux ready.
+  - Windows and macOS. On Linux, menubar [isn't working correctly](https://github.com/electron/electron/issues/6773).
 
 ## How To Use
 
