@@ -32,7 +32,7 @@ const contextMenu = electron.Menu.buildFromTemplate([
 mb.on('ready', function ready () {
   console.log('Correo is ready to serve in the menubar.');
 
-  if (process.platform == 'windows') {
+  if (process.platform == 'win32') {
     mb.tray.setContextMenu(contextMenu);
   }
 });
