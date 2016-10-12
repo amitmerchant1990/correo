@@ -5,7 +5,7 @@
   "main": "index.js",
   "productName": "Correo",
   "scripts": {
-    "start": "electron index.js"
+    "start": "electron index.js --disable-gpu"
   },
   "repository": {
     "type": "git",
