@@ -7,6 +7,11 @@
 </h1>
 
 <h4 align="center">A menubar/taskbar Gmail App based on <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<p align="center">
+  <a href="https://saythanks.io/to/amitmerchant1990">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+</p>
 
     Windows            |  &nbsp;
 :-------------------------:|:-------------------------:
