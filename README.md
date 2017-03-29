@@ -13,9 +13,9 @@
   </a>
 </p>
 
-    Windows            |  &nbsp;
-:-------------------------:|:-------------------------:
-![screenshot1](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png) |  ![screenshot2](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot2.png)
+|  Windows            |  &nbsp; |
+|---------------------|----------------------|
+|![sreenshot1](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png) |  ![screenshot2](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot2.png) |
 
 ## Features
 
