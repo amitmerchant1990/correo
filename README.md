@@ -13,14 +13,6 @@
   </a>
 </p>
 
----
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/DBgqdJGmRkXcTBUqTjHusmuF/amitmerchant1990/correo'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/DBgqdJGmRkXcTBUqTjHusmuF/amitmerchant1990/correo.svg' />
-</a>
-
----
-
 |  Windows            |  &nbsp; |
 |---------------------|----------------------|
 |![sreenshot1](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png) |  ![screenshot2](https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot2.png) |
