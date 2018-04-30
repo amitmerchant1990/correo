@@ -44,7 +44,7 @@ Download the portable version of Correo for Windows, macOS and Linux from [here]
 
 ## Correo?
 
-Correo is spanish of word "mail".
+[Correo](http://www.spanishdict.com/translate/correo) is spanish of word "mail".
 
 ## Credits
 
