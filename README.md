@@ -42,6 +42,10 @@ $> npm install && npm start
 
 Download the portable version of Correo for Windows, macOS and Linux from [here](https://github.com/amitmerchant1990/correo/releases/latest).
 
+## Correo?
+
+Correo is spanish of word "mail".
+
 ## Credits
 
 This software uses code from several open source packages.
