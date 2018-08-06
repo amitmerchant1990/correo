@@ -24,7 +24,7 @@
 
 ## Features
 
-* Run Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
+* Runs Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
 * App will keep alive in tray for quick usage.
 * Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
 * Cross platform
