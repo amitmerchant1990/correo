@@ -12,6 +12,11 @@
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
 </p>
+<p align="center">
+  <a href="https://www.patreon.com/amitmerchant">
+    <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+  </a>
+</p>
 
 |  Windows            |  &nbsp; |
 |---------------------|----------------------|
