@@ -1,4 +1,4 @@
-I didn't change the title at the top of the README because I'm not sure if 'nodepad' is onp u<h1 align="center">
+<h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/correo"><img src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="Correo" width="200"></a>
   <br>
