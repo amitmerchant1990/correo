@@ -1,4 +1,4 @@
-<h1 align="center">
+I didn't change the title at the top of the README because I'm not sure if 'nodepad' is onp u<h1 align="center">
   <br>
   <a href="http://www.amitmerchant.com/correo"><img src="https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/correo.png" alt="Correo" width="200"></a>
   <br>
@@ -24,8 +24,8 @@
 
 ## Features
 
-* Runs Gmail right from the Taskbar(in Windows) or from the Menubar(in macOS).
-* App will keep alive in tray for quick usage.
+* Runs Gmail right from the Taskbar (in Windows) or from the Menubar (in macOS).
+* Remains active in the tray for quick usage.
 * Uses Gmail's UI for mobile so it's best to use within menubar/taskbar.
 * Cross platform
   - Windows and macOS. On Linux, menubar [isn't working correctly](https://github.com/electron/electron/issues/6773).
@@ -56,7 +56,7 @@ Download the portable version of Correo for Windows, macOS and Linux from [here]
 
 ## Correo?
 
-[Correo](http://www.spanishdict.com/translate/correo) is spanish of word "mail".
+[Correo](http://www.spanishdict.com/translate/correo) means "mail" in Spanish.
 
 ## Credits
 
